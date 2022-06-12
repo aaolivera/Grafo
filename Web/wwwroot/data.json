@@ -1,0 +1,76 @@
+[
+  {
+    "data": {
+      "id": "605755",
+      "idInt": 605755,
+      "name": "PCNA",
+      "score": 0.006769776522008331,
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "selectable": true,
+    "grabbable": true
+  },
+  {
+    "data": {
+      "id": "611408",
+      "idInt": 611408,
+      "name": "FEN1",
+      "score": 0.006769776522008331,
+      "gene": true
+    },
+    "group": "nodes",
+    "selectable": true,
+    "grabbable": true
+  },
+  {
+    "data": {
+      "id": "600585",
+      "idInt": 600585,
+      "name": "POLD3",
+      "score": 0.0024938385347587078,
+      "gene": true
+    },
+    "group": "nodes",
+    "selectable": true,
+    "grabbable": true
+  },
+  {
+    "data": {
+      "id": "602299",
+      "idInt": 602299,
+      "name": "LIG1",
+      "score": 0.0023873089881679688,
+      "gene": true
+    },
+    "group": "nodes",
+    "selectable": true,
+    "grabbable": true
+  },
+  {
+    "data": {
+      "source": "611408",
+      "target": "605755",
+      "weight": 0.0055478187,
+      "group": "coexp",
+      "intn": true
+    },
+    "group": "edges",
+    "selectable": true,
+    "grabbable": true
+  },
+  {
+    "data": {
+      "source": "602299",
+      "target": "600585",
+      "weight": 0.012590342,
+      "group": "coexp",
+      "intn": true
+    },
+    "group": "edges",
+    "selectable": true,
+    "grabbable": true
+  }
+
+]

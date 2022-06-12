@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "cytoscape@3.21.1",
+      "destination": "wwwroot/lib/cytoscape/",
+      "files": [
+        "cytoscape.esm.js",
+        "cytoscape.esm.min.js",
+        "cytoscape.min.js",
+        "cytoscape.umd.js",
+        "cytoscape.umd.min.js"
+      ]
+    }
+  ]
+}
